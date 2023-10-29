@@ -1,8 +1,8 @@
-# the_sparks_foundation_project
+# The_sparks_foundation_project
 
 ## Project Title: Student Score Prediction based on Study Hours
 
-## roblem Statement:
+## Problem Statement:
 
 This project aims to predict the percentage of marks that a student is expected to score based on the number of hours they studied. It involves building a simple linear regression model with one input variable, which is the number of hours studied.
 
